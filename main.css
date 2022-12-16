@@ -1,0 +1,10 @@
+#questions .card{
+    cursor: pointer;
+    transition: .4s box-shadow;
+
+}
+
+#questions .card:hover{
+    box-shadow: 0 3px 8px rgba(0,0,0,0.3);
+
+}

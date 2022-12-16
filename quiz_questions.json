@@ -1,0 +1,97 @@
+[{
+    "id":"1",
+    "question": "What is 2 + 2?",
+    "answer": "4",
+    "questionDifficulty":{
+        "SQL": 6,
+        "Python": 6
+    }
+}
+,
+
+{
+    "id":"2",
+    "question": "What is 2 * 10?",
+    "answer": "20",
+    "question difficulty":{
+        "SQL": 6,
+        "Python": 6
+    }
+},
+
+{
+    "id":"3",
+    "question": "What is 9 + 9?",
+    "answer": "18",
+    "question difficulty":{
+        "SQL": 6,
+        "Python": 6
+    }
+},
+
+{
+    "id":"4",
+    "question": "What is 52 - 23?",
+    "answer": "29",
+    "question difficulty":{
+        "SQL": 6,
+        "Python": 6
+    }
+},
+
+{
+    "id":"5",
+    "question": "What is 25 / 5?",
+    "answer": "5",
+    "question difficulty":{
+        "SQL": 6,
+        "Python": 6
+    }
+},
+
+{
+    "id":"6",
+    "question": "What is 10 * 10?",
+    "answer": "100"
+},
+
+{
+    "id":"7",
+    "question": "What is 8 + 42?",
+    "answer": "50",
+    "question difficulty":{
+        "SQL": 6,
+        "Python": 6
+    }
+},
+
+{
+    "id":"8",
+    "question": "What is 9 * 4?",
+    "answer": "45",
+    "question difficulty":{
+        "SQL": 6,
+        "Python": 6
+    }
+},
+
+{
+    "id":"9",
+    "question": "What is 42 / 7?",
+    "answer": "6",
+    "question difficulty":{
+        "SQL": 6,
+        "Python": 6
+    }
+
+},
+
+{
+    "id":"10",
+    "question": "What is 18 - 12?",
+    "answer": "6",
+    "question difficulty":{
+        "SQL": 6,
+        "Python": 6
+    }
+}]
